@@ -8,7 +8,7 @@
 
   Cryptoza is a fully responsive cryptocurrency wallet website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/cryptoza/"><strong>➥ Live Demo</strong></a>
+  <a href="https://Thet9354.github.io/cryptoza/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
